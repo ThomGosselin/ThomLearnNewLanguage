@@ -15,5 +15,5 @@ for i in range(0, size - 1, 2): #Here the range is to be "enter" every even numb
 #Other whay to do it  (solution 1 is from line 10 to 12)
 x = list(word) #Here the list attribute create an "array" (i called it array to compare it to JS)
 print(x)
-for i in x[0::2]:
+for i in x[0::2]: #Here the [0::2] mean start at 0 and enter the loop each 2 passes
     print(i)
