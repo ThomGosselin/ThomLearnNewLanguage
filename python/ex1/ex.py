@@ -1,3 +1,4 @@
+#Learn Variable creation and basic Mathematic function
 number1 = 20
 number2 = 30
 
